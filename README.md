@@ -1,6 +1,6 @@
-# Hi there, I'm Bharath C Hegde [Coder ACB][youtube] 👋 
+# Hi there, I'm Bharath C Hegde 
 
-## I'm a,Web Developer, Software Engineer.
+## I'm a,Web Developer, Software Engineer, Youtuber.
 
 - 🌱 I’m currently learning TailwindCSS And Angular
 - 👯 I’m looking to collaborate with other content creators

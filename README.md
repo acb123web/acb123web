@@ -24,10 +24,10 @@
 
 
 ### Git Stats:
- <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=acb123web&count-private=true&theme=dark&hide_border=false"/>
- <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acb123web&theme=dark&show_icons=true&hide_border=false"/>
-  <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acb123web&theme=dark&show_icons=true&hide_border=false"/>
-  <img align="center" alt="coder ACB's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=acb123web&theme=react-dark&show_icons=true&hide_border=false"/>
+ <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=acb123web&count_private=true&theme=dark&hide_border=false"/>
+ <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acb123web&count_private=true&theme=dark&show_icons=true&hide_border=false"/>
+  <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acb123web&count_private=true&theme=dark&show_icons=true&hide_border=false"/>
+  <img align="center" alt="coder ACB's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=acb123web&count_private=true&theme=react-dark&show_icons=true&hide_border=false"/>
 
 
 [website]: https://acbresume.000webhostapp.com/

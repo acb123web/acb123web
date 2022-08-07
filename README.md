@@ -1,11 +1,11 @@
 # Hi there, I'm Bharath C Hegde 
 
-## I'm a,Web Developer,Engineer, Youtuber.
+> I'm a,Web Developer,Engineer, Youtuber.
 
-- 🌱 I’m currently learning TailwindCSS And React
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web
-- 💻 Free Lancing:Not Available Now 
+<sub>🌱 I’m currently learning TailwindCSS And React</sub></br>
+<sub>👯 I’m looking to collaborate with other content creators</sub></br>
+<sub>🥅 2022 Goals: Learn more about web</sub></br>
+<sub>💻 Free Lancing:Not Available Now</sub></br>
 
 
 ### Languages:

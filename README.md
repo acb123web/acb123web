@@ -1,9 +1,9 @@
 <h2 align="Left">Hi,</h2>
 
-<sub>🌱 I’m currently learning TailwindCSS And React</sub></br>
-<sub>👯 I’m looking to collaborate with other content creators</sub></br>
-<sub>🥅 2022 Goals: Learn more about web</sub></br>
-<sub>💻 Free Lancing:Not Available Now</sub></br>
+<h3>🌱 I’m currently learning TailwindCSS And React</h3>
+<h3>👯 I’m looking to collaborate with other content creators</h3>
+<h3>🥅 2022 Goals: Learn more about web</h3>
+<h3>💻 Free Lancing:Not Available Now</h3>
 
 
 <h4 align="center"> Languages</h4>

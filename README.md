@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
- <img align="center height="160px" src="https://camo.githubusercontent.com/53bb5a9425d31f8591b6d574168f10de337d20c01413a052049debca0ca8622b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72697368697375726573683726686964655f7469746c653d74727565267468656d653d6d69646e696768742d707572706c6526636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526686964653d697373756573" data-canonical-src="https://github-readme-stats.vercel.app/api?username=acb123web7&amp;hide_title=true&amp;theme=midnight-purple&amp;count_private=true&amp;show_icons=true" style="max-width: 100%;">
+ <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=acb123web&count_private=true&theme=buefy&hide_border=false"/>
  </p>
  <p align="center">
  <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acb123web&count_private=true&theme=buefy&show_icons=true&hide_border=false"/>

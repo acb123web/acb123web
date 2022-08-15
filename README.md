@@ -1,9 +1,11 @@
-<h2 align="Left">Hi,</h2>
-
-<h4>🌱 I’m currently learning TailwindCSS And React.</h4>
-<h4>👯 I’m looking to collaborate with other content creators.</h4>
-<h4>🥅 2022 Goals: Learn more about web.</h4>
-<h4>💻 Free Lancing:Not Available Now.</h4>
+<p align="left">
+ <img src="https://www.freepnglogos.com/uploads/indian-flag-png/indian-flag-flag-paint-face-photo-editing-0.png" width="100" title="Indian Flag">
+</p>
+<h4 align="Left">Hi,</h4>
+<p>🌱 I’m currently learning TailwindCSS And React.</p>
+<p>👯 I’m looking to collaborate with other content creators.</p>
+<p>🥅 2022 Goals: Learn more about web.</p>
+<p>💻 Free Lancing:Not Available Now.</p>
 
 
 <h4 align="center"> Languages</h4>

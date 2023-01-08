@@ -52,7 +52,7 @@
   <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acb123web&layout=compact&theme=apprentice&show_icons=true&hide_border=true"/>
   </p>
   <p align="center">
-   <img align="center" alt="coder ACB's GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=acb123web&bg_color=000&color=66fbf0&line=d9e1ce&point=d9e1ce&area=true&hide_border=true"/>
+   <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=acb123web&bg_color=000&color=66fbf0&line=d9e1ce&point=d9e1ce&area=true&hide_border=true"/>
 </p>
 
 

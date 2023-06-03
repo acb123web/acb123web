@@ -4,7 +4,7 @@
 <h4 align="Left">Hi,</h4>
 <p>🌱 I’m currently learning TailwindCSS And React.</p>
 <p>👯 I’m looking to collaborate with other content creators.</p>
-<p>🥅 2022 Goals: Learn more about web.</p>
+<p>🥅 2023 Goals: Learn more about web.</p>
 <p>💻 Free Lancing:Not Available Now.</p>
 
 

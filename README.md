@@ -1,7 +1,7 @@
 <p align="left">
  <img src="https://www.freepnglogos.com/uploads/indian-flag-png/indian-flag-flag-paint-face-photo-editing-0.png" width="100" title="Indian Flag">
 </p>
-<h4 align="Left">Hi,</h4>
+<p align="Left">Hi</p>
 <p>🌱 I’m currently learning TailwindCSS And React.</p>
 <p>👯 I’m looking to collaborate with other content creators.</p>
 <p>🥅 2023 Goals: Learn more about web.</p>
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
- <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=acb123web&count_private=true&theme=dark-smoky&hide_border=true"/>
+ <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=acb123web&count_private=true&theme=default&hide_border=true"/>
  </p>
  <p align="center">
  <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acb123web&count_private=true&theme=apprentice&show_icons=true&hide_title=true&hide_border=true"/>

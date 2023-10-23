@@ -43,16 +43,16 @@
 </p>
 
 <p align="center">
- <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=acb123web&count_private=true&theme=default&hide_border=true"/>
+ <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=acb123web&count_private=true&theme=default&hide_border=false"/>
  </p>
  <p align="center">
- <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acb123web&count_private=true&theme=apprentice&show_icons=true&hide_title=true&hide_border=true"/>
+ <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acb123web&count_private=true&theme=default&show_icons=true&hide_title=true&hide_border=false"/>
  </p>
  <p align="center">
-  <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acb123web&layout=compact&theme=apprentice&show_icons=true&hide_border=true"/>
+  <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acb123web&layout=donut-vertical&theme=default&show_icons=true&hide_border=false"/>
   </p>
   <p align="center">
-   <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=acb123web&bg_color=000&color=66fbf0&line=d9e1ce&point=d9e1ce&area=true&hide_border=true"/>
+   <img align="center" alt="coder ACB's GitHub Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=acb123web&theme=merko&area=true&hide_border=true"/>
 </p>
 
 

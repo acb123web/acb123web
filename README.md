@@ -1,14 +1,13 @@
 <p align="left">
  <img src="https://www.freepnglogos.com/uploads/indian-flag-png/indian-flag-flag-paint-face-photo-editing-0.png" width="100" title="Indian Flag">
 </p>
-<p align="Left">Hi</p>
-<p>🌱 I’m currently learning TailwindCSS And React.</p>
-<p>👯 I’m looking to collaborate with other content creators.</p>
-<p>🥅 2023 Goals: Learn more about web.</p>
-<p>💻 Free Lancing:Not Available Now.</p>
+<p align="Left"><strong>Hi</strong></p>
+<p>&bull; I’m currently learning TailwindCSS And React.</p>
+<p>&bull; I’m looking to collaborate with other content creators.</p>
+<p>&bull; 2023 Goals: Learn more about web.</p>
 
 
-<h4 align="center"> Languages</h4>
+<p align="center"><strong>Languages</strong></p>
 
 <p align="center">
 <img align="center" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -23,16 +22,13 @@
 <img align="center" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /><br/>
 </p>
 
-<h4 align="center"> Stats</h4>
+<p align="center"><strong>Stats</strong></p>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center"/>
 </p>
 <p align="center">
 <a href="https://github.com/acb123web/css-exercises/actions">
 <img src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-</a>
-<a href="https://codecov.io/gh/acb123web/acb123web">
-<img src="https://codecov.io/gh/acb123web/acb123web/branch/main/graph/badge.svg" />
 </a>
 <a href="https://github.com/acb123web/acb123web/issues">
 <img src="https://img.shields.io/github/issues/acb123web/acb123web?color=0088ff" />

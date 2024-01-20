@@ -2,7 +2,6 @@
  <img src="https://www.freepnglogos.com/uploads/indian-flag-png/indian-flag-flag-paint-face-photo-editing-0.png" width="100" title="Indian Flag">
 </p>
 <p align="Left"><strong>Hi</strong></p>
-<p>&bull; I’m currently learning TailwindCSS And React.</p>
 <p>&bull; I’m looking to collaborate with other content creators.</p>
 <p>&bull; 2023 Goals: Learn more about web.</p>
 

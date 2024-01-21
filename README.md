@@ -3,7 +3,7 @@
 </p>
 <p align="Left"><strong>Hi</strong></p>
 <p>&bull; I’m looking to collaborate with other content creators.</p>
-<p>&bull; 2023 Goals: Learn more about web.</p>
+<p>&bull; 2024 Goals: Learn more about web.</p>
 
 
 <p align="center"><strong>Languages</strong></p>
